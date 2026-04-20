@@ -19,4 +19,5 @@ public class ProductItem implements Serializable {
     private String name;
     private int qty;
     private int price;
+    private int abc;
 }
